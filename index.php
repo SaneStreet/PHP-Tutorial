@@ -1,15 +1,12 @@
 <?php
 
-    
+
     
 ?>
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>PHP Tutorials</title>
-    </head>
-    <body>
-
-    </body>
+    <?php include 'templates/header.php'; ?>
+    <?php include 'templates/footer.php'; ?>
+    
 </html>
